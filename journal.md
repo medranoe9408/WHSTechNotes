@@ -1,5 +1,5 @@
-#August 27, 2024
+# August 27, 2024
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 
-#September 04, 2024
+# September 04, 2024
 Since I've technically learned python before, so far, my experience has been mostly a refresher. In the past I've focused mostly on programming in Java, so relearning the syntax of Python and comparing that to the syntax of Java has been interesting. Additionally, Python is debatably smarter than Java, for example, you  have to specify a variable type, but in Python, it just knows based off of the input or the initialized variable from the programmer. Im sure this will mean more or something different as I progress in my course, but for now, I'm still starstruck by it. I also think its interesting how Python does division/ integer division. The "/" is an untrunkated number and to do integer division the way it would be done in Java by outputting a trunkated number is "//". I think this is very interesting because it never made sense to me that Java automatically trunkated quotient. I think these fundamentals will help me as I continue to learn more advanced programming concepts because I will be able to find more efficient solutions to programming tasks and in the real world it will come more natually. 
