@@ -15,3 +15,14 @@ Following instructions exactly as they are given is important when learning how 
 
 # September 30, 2024
 Computer science plays a big part of my life. I'm contantly on my phone on apps like instagram, facebook, messages, and even some games. These programs would not be available without computer science, this is one of the things that interested me in computer science in the first place. Without someone who knew how to code, these programs would not exist. 
+
+# October 10, 2024
+The career I researched was a Software Developers.Software Developers are tasked with creating and developing websites, programs, and other applications that run on computers or orhter devices. A strong background in computer programming is highly recommended, interpersonal skills in order to collaborate with others on projects and being detail oreiented to be able to juggle multiple aspects are also highly valued. A bachelors degree or higher in computer science, software engineering or a related field are usually preferred by employers. A strong foundation in programming languages and relevant technical skills gained through coursework or experience are also considered by employers, however there are opportunities to be trained in entry-level positions. With this career there are opportunities such as being a security analyst, project manager, DevOps engineer, technical leads, and much more higher paying and more experienced jobs. Additionally, with the wide array of things you learn over your career, the possibilities are endless. You could always start your own business or organization with the skills you have aquired and be the head of your own company or other project. This job aligns with my interests and goals in computer science because I want to be able to create things for companies and work on projects that will impact a wide demographic of people. 
+
+
+
+
+
+
+
+
