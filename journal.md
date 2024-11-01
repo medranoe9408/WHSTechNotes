@@ -25,7 +25,9 @@ Coding helps to improve problem solving skills by teaching you transferable skil
 # October 21, 2024
 Artificial Intelligence is a rapidly progressing form of technology that is being used for a multitude of things, including education, healthcare, personal issues (asking for help doing every day tasks), etc. With this new use of technology, there are many benefits that come with it. When you ask AI how to do something, more often than not, it will break down the problem into easy to follow steps along with the concrete answer, which allows for learning. Learning is probably the biggest potential positive of Artificial Intelligence, with opportunities that are endless. Instead of having to sit in a classroom with a teacher, simply opening any artificial intelligence application and asking a question about a topic that you don't know about can lead to a development of skills that would not be possible otherwise. 
 
-
+# October 28, 2024
+With the election coming up, the way voting
+The process of voting has changed a bunch since elections started, namely, the electronic voting proccess. Online voting and electric ballots have changed the way we vote and the level of accessibility to voting that is available. This electronic voting process exists because of the great mind of computer science. The people who came up with the systems for voting 
 
 
 
