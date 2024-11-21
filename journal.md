@@ -27,7 +27,12 @@ Artificial Intelligence is a rapidly progressing form of technology that is bein
 
 # October 28, 2024
 With the election coming up, the way voting
-The process of voting has changed a bunch since elections started, namely, the electronic voting proccess. Online voting and electric ballots have changed the way we vote and the level of accessibility to voting that is available. This electronic voting process exists because of the great mind of computer science. The people who came up with the systems for voting 
+The process of voting has changed a bunch since elections started, namely, the electronic voting proccess. Online voting and electric ballots have changed the way we vote and the level of accessibility to voting that is available. This electronic voting process exists because of the great mind of computer science. The people who came up with the systems for voting based it off of arbitrary beliefs that really mean nothing when you sit down and review the facts. 
+
+# November 4, 2024
+It is important to protect your personal and sensitive information when publishing online so that no one tries to steal it or use it against you in any way. Steps you can take to ensure that the information you share on platforms like Github and social media remains secure are by refraining from sharing your passwords or other sensitive personal information and refraining from posting excessivly or about personal things. Yes absolutely, I have definetly posted things to social media that I can now realize are too personal. Now, I would refrain from doing that and probably only share that type of information in person with people that I trust. I can balance being open and collaborative in online spaces while still protecting my privacy by ensuring that I have set personal and professional boundaries so that sensitive information does not come up at all and when it does it is being used for approved things only. 
+
+# November 12, 2024
 
 
 
