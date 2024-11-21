@@ -37,5 +37,12 @@ So the current event that Im choosing is the election. The way that it related t
 
 This electronic voting also provides solutions to other issues like isssues particularly pretaining to accessibility issues. For example, this solution can help with allowing for people to be able to vote at home or from remote locations even so far is to help with people with health issues who cannot be around a lot of people.
 
+# November 18, 2024
+
+
+
+
+
+
 
 
