@@ -33,7 +33,9 @@ The process of voting has changed a bunch since elections started, namely, the e
 It is important to protect your personal and sensitive information when publishing online so that no one tries to steal it or use it against you in any way. Steps you can take to ensure that the information you share on platforms like Github and social media remains secure are by refraining from sharing your passwords or other sensitive personal information and refraining from posting excessivly or about personal things. Yes absolutely, I have definetly posted things to social media that I can now realize are too personal. Now, I would refrain from doing that and probably only share that type of information in person with people that I trust. I can balance being open and collaborative in online spaces while still protecting my privacy by ensuring that I have set personal and professional boundaries so that sensitive information does not come up at all and when it does it is being used for approved things only. 
 
 # November 12, 2024
+So the current event that Im choosing is the election. The way that it related to technology, which we have been learning in class. The way this related to technology is the electronic ballot system. The election itself is considered rather important to American citizens, but there are a lot of people who cannot vote for a multitude of reasons. Electronic voting provides a solution to this. 
 
+This electronic voting also provides solutions to other issues like isssues particularly pretaining to accessibility issues. For example, this solution can help with allowing for people to be able to vote at home or from remote locations even so far is to help with people with health issues who cannot be around a lot of people.
 
 
 
