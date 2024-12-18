@@ -41,3 +41,22 @@ This electronic voting also provides solutions to other issues like isssues part
 Technology has changed the way we grow, distribute, and purchase food by allowing us to be able to do those things with little to no interferance from other outside issues. Technology makes food more affordable during the holidays because an increase in technology could allow more food to be produced, and make food more accessible during the holiday season by allowing people to not have to leave and placing online orders and having delivery services. There are negative effects of relying on technology for our food supply, such as the probability that there could be a flaw or a bug in the way the two interfaces communicate. For example, if the customer orders food on an app, but the app doesn't communicate that properly to the supplier, then there is obviously a flaw and its an example of why we should not rely souly on technology for our food supply.
 
 # December 02, 2024
+Chatbots and virtual assistants are changing the way we get answers and communicate/form our own thoughts and opinions. From the implementation of google Gemini and older things like Apple's Siri or Amazon's Echo Dot/Alexa there are so many ways that virtual assistants are helping us in our everyday life. Chatbots are also helpful especially as a way of customer service or online trouble shooting for a physical issue. What excites me about this technology is that it is so widespread and makes the creation and sharing of technology easier from remote locations. What concerns me about this technology is the ease that misinformation can be spread. If everyone is using these things and it is misinforming people now we have a whole society of ill informed people which is never good. Since I want to be a program developer, this technology is very helpful to people in that field because it allows us to correct bugs and write code that we might not have been able to before. This is not only a good thing though since it takes the collaborative nature out of the field. Ethically, this technology can be used to cheat or bypass previously implemented ways of honesty especially in academics. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
